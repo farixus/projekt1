@@ -464,7 +464,8 @@ Plik bruteForce.py
                 if port == 80:
                     attack_http(ip_addr)
                     print("Success!")
-
+                   
+=== koniec ===
 
 
 
